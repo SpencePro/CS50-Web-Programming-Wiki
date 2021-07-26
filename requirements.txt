@@ -1,0 +1,4 @@
+python>=3.6
+Django>=3.0.5
+Markdown2==2.4.0
+
